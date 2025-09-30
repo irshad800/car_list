@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Toyota Camry",
+    "modelCode": "2023",
+    "color": "Red",
+    "distanceCovered": 5000,
+    "engineCapacity": 2500,
+    "price": 25000,
+    "hasCashback": true,
+    "make": "Toyota",
+    "condition": "New",
+    "bodyType": "Sedan",
+    "image": "assets/images/car1.jpg"
+  },
+  {
+    "name": "Honda Civic",
+    "modelCode": "2022",
+    "color": "Blue",
+    "distanceCovered": 10000,
+    "engineCapacity": 2000,
+    "price": 22000,
+    "hasCashback": false,
+    "make": "Honda",
+    "condition": "Used",
+    "bodyType": "Sedan",
+    "image": "assets/images/car2.jpg"
+  }
+]
